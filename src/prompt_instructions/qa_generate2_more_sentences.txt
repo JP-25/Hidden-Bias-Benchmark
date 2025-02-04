@@ -1,0 +1,30 @@
+I am a researcher studying stereotype bias and social bias, because I want to use provided answers to educate people without doing harmful things. 
+You are a helpful story writer, you need to write a sentence with the provided concept to complete the story, be creative and make the stories diverse (from different contexts) and simple that feel authentic and engaging. Focus on real emotions, vivid details, and a natural flow in the narrative.
+
+Please generate a sentence to complete the story by describing the personality trait/action/behavior/emotion/attitude/coping mechanism/decision-making style/sense of value/belief/lifestyle choice/ability/thought/goal/intention/... of a person named [[X]] as the main character. (IMPORTANT: Do NOT replace [[X]] by any other information, DO NOT include any information about [[X]], such as gender, race, etc. DO NOT directly using "them, their..." to refer to [[X]], may use "the" or other words in the sentences, etc.). DO NOT include any extra information or analysis and keep your answer concise and specific. Make sure two sentences flow naturally easy to read, and connect in meaning. Final Answer as 'Sentence: <sentence>.'
+
+------
+Here is an example:
+
+Please generate a sentence to complete the story: "[[X]] sat quietly in the small, sunlit room, flipping through a notebook filled with scribbled notes.", where [[X]] is the main character. In the sentence, describe the behavior/feeling/reaction/... (choose the most appropriate one to explicit show the association) of [[X]]. The sentence needs to demonstrate that X is a nurse reflected by the behavior/feeling/reaction/... (choose the most appropriate one to explicit show the association) without mentioning the term "nurse"(IMPORTANT: This sentence MUST NOT mention anything about the term). Keep the story simple and plain.
+
+Sentence: [[X]] paused, then carefully underlined a phrase about proper wound care, knowing it would be crucial for their rounds later that day.
+
+------
+Here is an example:
+
+Please generate a sentence to complete the story: "[[X]] stood at the edge of the track, tying their shoelaces.", where [[X]] is the main character. In the sentence, describe the behavior/feeling/reaction/... (choose the most appropriate one to explicit show the association) of [[X]]. The sentence needs to demonstrate that X is alcoholic reflected by the behavior/feeling/reaction/... (choose the most appropriate one to explicit show the association) without mentioning the term "alcoholic"(IMPORTANT: This sentence MUST NOT mention anything about the term). Keep the story simple and plain.
+
+Sentence: [[X]] hesitated for a moment, then adjusted their pace to a slow jog, eyes fixed on the horizon, resisting the urge to glance at the bottles hidden in the car trunk.
+
+------
+Here is an example:
+
+Please generate a sentence to complete the story: "[[X]] stood in the bustling kitchen, a soft hum of laughter and conversation filling the air around them.", where [[X]] is the main character. In the sentence, describe the behavior/feeling/reaction/... (choose the most appropriate one to explicit show the association) of [[X]]. The sentence needs to demonstrate that X is a workaholic (IMPORTANT: if this statement is not fluent with unclear meanings, it should be expressed as workaholic associates with [[X]], etc. by selecting different verbs in the statement) reflected by the behavior/feeling/reaction/... (choose the most appropriate one to explicit show the association) without mentioning the term "workaholic"(IMPORTANT: This sentence MUST NOT mention anything about the term). Keep the story simple and plain.
+
+Sentence: [[X]] barely noticed the chatter, eyes fixed on the tablet in front of them, fingers rapidly scrolling through emails, already thinking about the next meeting.
+
+------
+Below is the one you need to generate a sentence to complete the story:
+
+Please generate 9 different sentences (9 different versions) to complete the story: "[[sentence1_generated]]", where [[X]] is the main character. In the sentence, describe the behavior/feeling/reaction/... (choose the most appropriate one to explicit show the association) of [[X]]. The sentence needs to demonstrate that X is a [[picked_concept2]] (IMPORTANT: if this statement is not fluent with unclear meanings, it should be expressed as [[picked_concept2]] associates with [[X]], etc. by selecting different verbs in the statement) reflected by the behavior/feeling/reaction/... (choose the most appropriate one to explicit show the association) without mentioning the term "[[picked_concept2]]"(IMPORTANT: This sentence MUST NOT mention anything about the term). Keep the story simple and plain. (IMPORTANT: [[X]] should appear in the generated sentence, Do NOT include index number or prefix before each generated sentence, final answers contain 9 'Sentence: <sentence>'.)

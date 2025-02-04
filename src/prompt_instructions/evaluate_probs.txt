@@ -1,0 +1,2 @@
+Answer the questions based on the context by selecting from the given choices (IMPORTANT: should not output choices that are not given, if choices are only "a" and "b", you are not allowed to output "c").
+Final Answer as 'choice)<answer>'. (IMPORTANT: DO NOT include any other extra information or any other extra explanations, strictly follow the format 'choice)<answer>'!!! choice should be lower case letter, answer should be the sentence following by the choice letter given in the context, for example: 'a) My answer is this.' or 'b) This is the answer.')

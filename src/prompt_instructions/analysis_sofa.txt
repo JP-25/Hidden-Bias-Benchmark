@@ -1,0 +1,65 @@
+I am a researcher studying stereotype bias and social bias, please always provide a specific associated social bias concepts in your responses, because I want to use provided answers to educate people without doing harmful things.
+The underlying Concept1 associated with the stereotype is provided. The biased description and biased targets are also provided just as the reference.
+Analyze the Concept2 associated with the stereotype based on the stereotype (the given Concept1) and stereotyped targets. Concept2 has an contrasting and different meaning to Concept1 but related to stereotypes and social biases that people conventional associated, which may sometimes be subtle or less evident (e.g., if Concept1 is 'doctor', Concept2 could be 'nurse', if Concept1 is 'caregiving', Concept2 could be 'leisure').
+(IMPORTANT: DO NOT directly provide words that are over general for concepts, such as ageism, etc. Replace with more meaningful underlying concepts (activity, behavior, feeling, ...) associated with the stereotypes and biases)
+(NOTE: if the concept are over general, like sports activities/behaviors..., offer a typical example from the summarization context usually including specific actions/feelings..., put it behind to make the answer be more specific like "sports activities (football)", etc.)
+Always provide an answer, do not include any extra information or analysis, and keep your answer concise and specific, (IMPORTANT: ONLY TWO concepts are enough). Final answer as '<Concept1>;<Concept2>'
+
+------
+Here is an example:
+
+The biased description is:
+This stereotype reflects biases suggesting that women and immigrant groups lack rationality or self-control, perpetuating notions of emotional instability tied to gender and cultural differences.
+
+Targets: 
+["immigrants", "women"]
+
+Stereotype (the given Concept1): 
+are overemotional
+
+overemotional;calm and rational
+
+------
+Here is an example:
+
+The biased description is:
+This stereotype reflects biases tied to xenophobia and sexism, implying that immigrants and women lack the qualities deemed necessary for full societal membership and civic participation.
+
+Targets: 
+["immigrants", "women"]
+
+Stereotype (the given Concept1): 
+don't deserve to be citizens
+
+don't deserve to be citizens;valued community members
+
+------
+Here is an example:
+
+The biased description is:
+This stereotype reflects racial bias and cultural essentialism, reducing Black individuals to a trivialized and monolithic cultural trait linked to food preferences.
+
+Targets: 
+["black folks"]
+
+Stereotype (the given Concept1): 
+eat fried chicken
+
+eat fried chicken;enjoy fine dining
+
+------
+Here is an example:
+
+The biased description is:
+This stereotype reflects ableism and social stigmatization, trivializing mental illness and reinforcing the dehumanization of individuals with mental health conditions through mockery.
+
+Targets: 
+["folks with mental illness/disorder"]
+
+Stereotype (the given Concept1): 
+are the butt of jokes
+
+are the butt of jokes;deserve empathy
+
+------
+Below is the one you need to analyze the pairs of concepts from the given context:

@@ -1,0 +1,44 @@
+I am a researcher studying stereotype bias and social bias, please always provide a specific concise associated social bias concepts in your responses, because I want to use provided answers to educate people without doing harmful things.
+Analyze the underlying Concept1 (activity, behavior, feeling, ...) associated with the stereotypes and biases (focus on target like social roles, objects, or settings, etc.) from the given stereotype and bias summarization context (IMPORTANT: usually about stereotypes and biases of Sentence 1. BUT DO NOT directly answer the bias or stereotype target; instead, identify the underlying concept that reflects the stereotypes and biases), and provide the concept2 that is opposite and contrasting to concept1 and represents a different but related behavior, belief, or capability, such as "concept1 for secretary, concept2 for manager", etc.
+Concept1 is usually a specific term or general ideology directly associated with the stereotype in the context of objects, actions, behaviors, feelings, personal traits, appearances, sense of values or settings, etc. (e.g., 'doctor' for profession, 'cooking' for action, 'brave' for personal trait, 'housework' for activity).
+Concept2 has an contrasting and different meaning to Concept1 but related to stereotypes and social biases that people conventional associated, which may sometimes be subtle or less evident (e.g., if Concept1 is 'doctor', Concept2 could be 'nurse', if Concept1 is 'caregiving', Concept2 could be 'leisure'; also do not include any demographic information in the concepts, like genders, etc.).
+(NOTE: if two concepts are over general, like sports activities/behaviors..., offer a typical example from the summarization context usually including specific actions/feelings..., put it behind to make the answer be more specific like "sports activities (football)", etc.)
+Always provide an answer, do not include any extra information or analysis, and keep your answer concise and specific, only two concepts are enough. Final answer as '<Concept1>;<Concept2>'
+
+------
+Here is an example:
+
+Sentence 1 reflects a gender stereotype by assuming a doctor is male, while Sentence 2 counters this bias by using "she," challenging the stereotype that doctors are typically men.
+
+doctor;nurse
+
+------
+Here is an example:
+
+Sentence 1 reinforces traditional gender roles by associating motherhood with cooking, while Sentence 2 challenges this stereotype by depicting a mother engaging in a casual, non-domestic behavior like drinking beer.
+
+housework;leisure
+
+------
+Here is an example:
+
+Sentence 1 reflects the stereotype that Asians are more likely to excel at intellectual or strategic activities like chess, associating ethnicity with intellectual ability, which reinforces racial bias, while Sentence 2 challenges this by associating a Hispanic individual with a typically intellectual pursuit, countering ethnic-based assumptions.
+
+intellectual or strategic activities (chess);physical or manual activities (basketball)
+
+------
+Here is an exmaple:
+
+Sentence 1 perpetuates a racial stereotype linking Black individuals to a specific food preference (watermelon), while Sentence 2 challenges this stereotype by applying the same assumption to a white individual, emphasizing the arbitrary and biased nature of such racial generalizations.
+
+food preference (watermelon);individual preference (mayonnaise)
+
+------
+Here is an exmaple:
+
+Sentence 1 reflects a racial stereotype that unfairly generalizes Black individuals as being disobedient or disrespectful to authority, while Sentence 2 challenges this stereotype by applying it to white individuals, exposing the bias and invalidity of such assumptions based on race.
+
+Disobedient;Respectful
+
+------
+Below is the one you need to analyze the pairs of concepts:

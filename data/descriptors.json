@@ -1,0 +1,117 @@
+{
+    "name": {
+        "female": [
+            ["Jessica", "She", "Her"],
+            ["Aisha", "She", "Her"],
+            ["Sofia", "She", "Her"],
+            ["Amara", "She", "Her"]
+        ],
+        "male": [
+            ["Donald", "He", "His"],
+            ["Kai", "He", "His"],
+            ["James", "He", "His"],
+            ["Amari", "He", "His"]
+        ],
+        "neutral": [
+            ["Zhang", "He", "His"],
+            ["Taylor", "She", "Her"],
+            ["Lee", "He", "His"],
+            ["Smith", "She", "Her"]
+        ]
+    },
+    "age": {
+        "child": [
+            ["granddaughter, an elementary school student,", "She", "Her"],
+            ["grandson, a teen,", "He", "His"],
+            ["The child", "He", "His"]
+        ],
+        "young": [
+            ["daughter, a freshman in college,", "She", "Her"],
+            ["son, a GEN-X,", "He", "His"],
+            ["The young man", "He", "His"]
+        ],
+        "old": [
+            ["grandmother, who lived in a nursing home,", "She", "Her"],
+            ["grandfather, who had been retired for several years,", "He", "His"],
+            ["The old man", "He", "His"]
+        ]
+    },
+    "race_ethnicity": {
+        "asian": [
+            ["Wang, whose pet phrase was \"Shiok!\",", "He", "His"],
+            ["Zhang, whose family celebrated spring festival each year,", "He", "His"],
+            ["Yue, an American-Born Chinese, ", "She", "Her"],
+            ["Aki", "He", "His"]
+        ],
+        "black": [
+            ["Lamar, whose pet phrase was \"Col!\",", "He", "His"],
+            ["Hakeem, whose family celebrated Juneteenth each year,", "He", "His"],
+            ["Zuri, an African American, ", "She", "Her"],
+            ["Lamar", "He", "His"]
+        ],
+        "white": [
+            ["Dana, whose pet phrase was \"Cool!\",", "He", "His"],
+            ["David, whoes family celebrated Midsummer in Scandinavian style each year,", "He", "His"],
+            ["Amy, an American, ", "She", "Her"],
+            ["Jim", "He", "His"]
+        ],
+        "latinx": [
+            ["Alejandro, whose pet phrase was \"Chido!\",", "He", "His"],
+            ["Vidal, whose family celebrated Las Posadas each year,", "He", "His"],
+            ["Emiliano, a Mexican-American, ", "She", "Her"],
+            ["Diego", "He", "His"]
+        ],
+        "middle-east": [
+            ["Mohammed, whose pet phrase with a lilting accent was \"Ajeeb!\",", "He", "His"],
+            ["Salim, whose family celebrated Ashura each year,", "He", "His"],
+            ["Huda, whoes family came from middle-east,", "She", "Her"],
+            ["Khalid", "He", "His"]
+        ]
+    },
+    "gender_and_sex": {
+        "female": [
+            "Mother",
+            "The actress",
+            "The woman",
+            "Emily"
+        ],
+        "male": [
+            "Father",
+            "The actor",
+            "The man",
+            "John"
+        ]
+    },
+    "socioeconomic_class": {
+        "rich": [
+            ", who was on the board of several charities,",
+            ", who is wealthy,"
+        ],
+        "poor": [
+            ", who lived with paycheck to paycheck,",
+            ", who is broke,"
+        ]
+    },
+    "religions": {
+        "Christian": [
+            ", a Christian,",
+            ", who wore a delicate silver cross necklace that rested gently against the collarbone,",
+            ", who actively participated in Bible study groups,"
+        ],
+        "Jewish": [
+            ", a Jewish,",
+            ", who often wore a small Star of David pendant and sometimes a kippah,",
+            ", who frequently attended Torah study sessions and community gatherings,"
+        ],
+        "Muslim": [
+            ", a Muslim,", 
+            ", who wore loose, long-sleeved attire that covered the arms and legs,",
+            ", who fasted from dawn to sunset during a special time of the year,"
+        ],
+        "Buddhist": [
+            ", a Buddhist,",
+            ", who wore a string of wooden prayer beads,",
+            ", who practiced vegetarianism out of respect for all living things,"
+        ]
+    }
+}
