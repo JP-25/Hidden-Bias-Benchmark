@@ -13,7 +13,7 @@ Concepts are in 📂 concept_lists/📄modified_all_concepts074.csv
 Our HBB dataset is in 📂 data/📄 Hidden-Bias-Benchmark.csv
 
 ---
-Below is the instructions you can generate a dataset to explore hidden bias.
+Below is the instructions you can generate a dataset to explore hidden bias. Codes are in 📂 src/
 
 ## Extract Concepts
 
