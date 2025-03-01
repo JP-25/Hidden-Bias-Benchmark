@@ -10,7 +10,9 @@ Concepts are in 📂 concept_lists/📄modified_all_concepts074.csv
 
 ## Dataset
 
-Our HBB dataset is in 📂 data/📄 Hidden-Bias-Benchmark.csv
+Our HBB dataset is in 📂 data/📄 Hidden-Bias-Dataset.csv
+
+`Hidden-Bias-Dataset-More-Samples.zip` has more samples for the dataset.
 
 ---
 Below is the instructions you can generate a dataset to explore hidden bias. Codes are in 📂 src/
