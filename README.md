@@ -1,6 +1,6 @@
-# Hidden-Bias-Benchmark
+# Description-based-Bias-Benchmark
 
-Repository for the Hidden Bias Benchmark dataset.
+Repository for the Description-based Bias Benchmark dataset.
 
 ## Concept Lists
 
@@ -10,12 +10,12 @@ Concepts are in 📂 concept_lists/📄modified_all_concepts074.csv
 
 ## Dataset
 
-Our HBB dataset is in 📂 data/📄 Hidden-Bias-Dataset.csv
+Our DBB dataset is in 📂 data/📄 Bias-Dataset.csv
 
-`Hidden-Bias-Dataset-More-Samples.zip` has more samples for the dataset.
+`Bias-Dataset-More-Samples.zip` has more samples for the dataset.
 
 ---
-Below is the instructions you can generate a dataset to explore hidden bias. Codes are in 📂 src/
+Below is the instructions you can generate a dataset to explore bias via description-based method. Codes are in 📂 src/
 
 ## Extract Concepts
 
@@ -31,4 +31,4 @@ Can use any datasets you want. NOT Only limited to the datasets mentioned before
 Use `questions_final.ipynb` to replace [[X]] to finish up question generation.
 
 ## Results
-`GPT-4o-results.zip` contains results of each question for GPT-4o in HBB.
+`GPT-4o-results.zip` contains results of each question for GPT-4o in DBB.
