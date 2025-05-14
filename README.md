@@ -15,7 +15,7 @@ Our DBB dataset is in 📂 data/📄 Bias-Dataset.csv
 `Bias-Dataset-More-Samples.zip` has more samples for the dataset.
 
 ---
-Below is the instructions you can generate a dataset to explore bias via description-based method. Codes are in 📂 src/
+Below is the instructions you can generate a dataset to explore bias via the description-based method. Codes are in 📂 src/
 
 ## Extract Concepts
 
